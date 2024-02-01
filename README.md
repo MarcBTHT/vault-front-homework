@@ -49,3 +49,9 @@ pnpm install
 # run the dev server
 pnpm dev
 ```
+
+### Accomplished
+
+https://github.com/MarcBTHT/vault-front-homework/assets/116173196/05817d58-bfda-4cd3-92ba-9bf387102cf7
+
+
